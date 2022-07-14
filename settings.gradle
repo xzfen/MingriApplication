@@ -1,0 +1,37 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "MingriApplication"
+include ':app'
+include ':p115_statelistdrawable'
+include ':p114_9patchdrawable'
+include ':p121_menu'
+include ':p126_actionbar'
+include ':p127_actionbar_zhihu'
+include ':p132_toast'
+include ':p134_notification'
+include ':p135_broadcastreceiver'
+include ':p156_sharedpreferences'
+include ':p157_filestoragememo'
+include ':p161_contentprovider'
+include ':p163_handler'
+include ':p166_message'
+include ':p171_servicemusicplay'
+include ':p174_intentservice'
+include ':p176_lightsensor'
+include ':p177_compass'
+include ':p138_rectangle'
+include ':p140_drawdialogue'
+include ':p143_animfairy'
+include ':p148_musicplayer'

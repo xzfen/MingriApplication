@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">P121_Menu</string>
+    <string name="menu_title_settings">设置</string>
+    <string name="menu_title_regard">关于</string>
+</resources>

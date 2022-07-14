@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/p114_9patchdrawable/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/p115_statelistdrawable/src/main/res/drawable/edittext_focused.xml" value="0.1035" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/p115_statelistdrawable/src/main/res/drawable/ic_launcher_background.xml" value="0.1135" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/p115_statelistdrawable/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/p115_statelistdrawable/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1035" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/p115_statelistdrawable/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1035" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/p121_menu/src/main/res/layout/activity_main.xml" value="0.15208333333333332" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/p121_menu/src/main/res/layout/activity_regard.xml" value="0.1375" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/p121_menu/src/main/res/layout/activity_settings.xml" value="0.15208333333333332" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/p121_menu/src/main/res/layout/settings.xml" value="0.1375" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/p121_menu/src/main/res/menu/menu_test.xml" value="0.15208333333333332" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/p126_actionbar/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/p127_actionbar_zhihu/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1425" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/p127_actionbar_zhihu/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/p127_actionbar_zhihu/src/main/res/menu/menu.xml" value="0.2526041666666667" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/p132_toast/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/p132_toast/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/p132_toast/src/main/res/layout/activity_main.xml" value="0.1490036231884058" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/p132_toast/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/p134_notification/src/main/res/layout/activity_detail.xml" value="0.1890625" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/p134_notification/src/main/res/layout/activity_main.xml" value="0.17481884057971014" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/p135_broadcastreceiver/src/main/res/layout/activity_main.xml" value="0.20364583333333333" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/p156_sharedpreferences/src/main/res/layout/activity_main.xml" value="0.20364583333333333" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/p156_sharedpreferences/src/main/res/layout/activity_message.xml" value="0.1890625" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/p157_filestoragememo/src/main/res/layout/activity_main.xml" value="0.20364583333333333" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/p161_contentprovider/src/main/res/layout/activity_main.xml" value="0.8910891089108911" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/p163_handler/src/main/res/layout/activity_main.xml" value="0.20364583333333333" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/p166_message/src/main/res/layout/activity_main.xml" value="0.20364583333333333" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/p174_intentservice/src/main/res/layout/activity_main.xml" value="0.20364583333333333" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/p176_lightsensor/src/main/res/layout/activity_main.xml" value="0.15942028985507245" />
+        <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/p_171servicemusicplay/src/main/res/layout/activity_main.xml" value="0.20364583333333333" />
+        <entry key="..\:/Projects/MingriApplication/p138_rectangle/src/main/res/layout/activity_main.xml" value="0.2006340579710145" />
+        <entry key="..\:/Projects/MingriApplication/p140_drawdialogue/src/main/res/layout/activity_main.xml" value="0.11666666666666667" />
+        <entry key="..\:/Projects/MingriApplication/p143_animfairy/src/main/res/layout/activity_main.xml" value="0.10677083333333333" />
+        <entry key="..\:/Projects/MingriApplication/p148_musicplayer/src/main/res/layout/activity_main.xml" value="0.20260416666666667" />
+        <entry key="..\:/Projects/MingriApplication/p176_lightsensor/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Projects/MingriApplication/p177_compass/src/main/res/layout/activity_main.xml" value="0.20260416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

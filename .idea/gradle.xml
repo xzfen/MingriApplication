@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="openjdk-18" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/p114_9patchdrawable" />
+            <option value="$PROJECT_DIR$/p115_statelistdrawable" />
+            <option value="$PROJECT_DIR$/p121_menu" />
+            <option value="$PROJECT_DIR$/p126_actionbar" />
+            <option value="$PROJECT_DIR$/p127_actionbar_zhihu" />
+            <option value="$PROJECT_DIR$/p132_toast" />
+            <option value="$PROJECT_DIR$/p134_notification" />
+            <option value="$PROJECT_DIR$/p135_broadcastreceiver" />
+            <option value="$PROJECT_DIR$/p138_rectangle" />
+            <option value="$PROJECT_DIR$/p140_drawdialogue" />
+            <option value="$PROJECT_DIR$/p143_animfairy" />
+            <option value="$PROJECT_DIR$/p148_musicplayer" />
+            <option value="$PROJECT_DIR$/p156_sharedpreferences" />
+            <option value="$PROJECT_DIR$/p157_filestoragememo" />
+            <option value="$PROJECT_DIR$/p161_contentprovider" />
+            <option value="$PROJECT_DIR$/p163_handler" />
+            <option value="$PROJECT_DIR$/p166_message" />
+            <option value="$PROJECT_DIR$/p171_servicemusicplay" />
+            <option value="$PROJECT_DIR$/p174_intentservice" />
+            <option value="$PROJECT_DIR$/p176_lightsensor" />
+            <option value="$PROJECT_DIR$/p177_compass" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
