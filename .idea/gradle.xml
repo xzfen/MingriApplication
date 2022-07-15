@@ -33,6 +33,7 @@
             <option value="$PROJECT_DIR$/p174_intentservice" />
             <option value="$PROJECT_DIR$/p176_lightsensor" />
             <option value="$PROJECT_DIR$/p177_compass" />
+            <option value="$PROJECT_DIR$/p65_wechat" />
           </set>
         </option>
       </GradleProjectSettings>
