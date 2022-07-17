@@ -34,6 +34,7 @@
             <option value="$PROJECT_DIR$/p176_lightsensor" />
             <option value="$PROJECT_DIR$/p177_compass" />
             <option value="$PROJECT_DIR$/p65_wechat" />
+            <option value="$PROJECT_DIR$/p78_tagfragment" />
           </set>
         </option>
       </GradleProjectSettings>

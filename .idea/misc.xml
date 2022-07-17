@@ -43,6 +43,11 @@
         <entry key="..\:/Projects/MingriApplication/p177_compass/src/main/res/layout/activity_main.xml" value="0.20260416666666667" />
         <entry key="..\:/Projects/MingriApplication/p65_wechat/src/main/res/layout/activity_main.xml" value="0.151953125" />
         <entry key="..\:/Projects/MingriApplication/p65_wechat/src/main/res/layout/main.xml" value="0.20260416666666667" />
+        <entry key="..\:/Projects/MingriApplication/p78_tagfragment/src/main/res/layout/activity_main.xml" value="0.20260416666666667" />
+        <entry key="..\:/Projects/MingriApplication/p78_tagfragment/src/main/res/layout/contact_fragment.xml" value="0.20260416666666667" />
+        <entry key="..\:/Projects/MingriApplication/p78_tagfragment/src/main/res/layout/find_fragment.xml" value="0.2015625" />
+        <entry key="..\:/Projects/MingriApplication/p78_tagfragment/src/main/res/layout/me_fragment.xml" value="0.2015625" />
+        <entry key="..\:/Projects/MingriApplication/p78_tagfragment/src/main/res/layout/wechat_fragment.xml" value="0.2015625" />
       </map>
     </option>
   </component>
