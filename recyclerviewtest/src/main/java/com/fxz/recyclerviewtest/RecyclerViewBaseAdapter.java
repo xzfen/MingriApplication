@@ -50,6 +50,10 @@ public abstract class RecyclerViewBaseAdapter extends RecyclerView.Adapter<Recyc
         return mData.size();
     }
 
+    public void setOnItemClickListener(){
+
+    }
+
     //定义内部类InnerHolder继承自RecyclerView.ViewHolder
     public class InnerHolder extends RecyclerView.ViewHolder {
         ImageView imageView;
