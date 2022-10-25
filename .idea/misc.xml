@@ -3,7 +3,36 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Projects/AndroidStudioProjects/Mingri/MingriApplication/b2p6_calculator/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1185" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Mingri/MingriApplication/b2p6_calculator/src/main/res/drawable-v24/shape_rectangle_orange.xml" value="0.109" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Mingri/MingriApplication/b2p6_calculator/src/main/res/drawable-v24/shape_rectangle_orange_grey.xml" value="0.1415" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Mingri/MingriApplication/b2p6_calculator/src/main/res/drawable/ic_launcher_background.xml" value="0.1185" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Mingri/MingriApplication/b2p6_calculator/src/main/res/drawable/selector_orange_bg.xml" value="0.1415" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Mingri/MingriApplication/b2p6_calculator/src/main/res/drawable/selector_white_bg.xml" value="0.1415" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Mingri/MingriApplication/b2p6_calculator/src/main/res/drawable/shape_rectangle.xml" value="0.1185" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Mingri/MingriApplication/b2p6_calculator/src/main/res/drawable/shape_rectangle_white_grey.xml" value="0.1415" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Mingri/MingriApplication/b2p6_calculator/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Mingri/MingriApplication/b3p1_qqlogindemo/src/main/res/layout/activity_main.xml" value="0.223731884057971" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Mingri/MingriApplication/b3p1_qqlogindemo/src/main/res/layout/activity_preference_demo.xml" value="0.1983695652173913" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Mingri/MingriApplication/p4p1_databasedemo/src/main/res/layout/activity_main.xml" value="0.1983695652173913" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Mingri/MingriApplication/p5p11_activityresult/src/main/res/layout/activity_main.xml" value="0.21331521739130435" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Mingri/MingriApplication/p5p11_activityresult/src/main/res/layout/activity_pay.xml" value="0.21331521739130435" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Mingri/MingriApplication/p5p13_camera/src/main/res/drawable/selector_take_photo_btn.xml" value="0.1495" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Mingri/MingriApplication/p5p13_camera/src/main/res/drawable/shape_take_photo_btn_normal.xml" value="0.1495" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Mingri/MingriApplication/p5p13_camera/src/main/res/drawable/shape_take_photo_btn_press.xml" value="0.1495" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Mingri/MingriApplication/p5p13_camera/src/main/res/layout/activity_main.xml" value="0.21331521739130435" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Mingri/MingriApplication/p5p19_screenrotate/src/main/res/layout/activity_main.xml" value="0.21331521739130435" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Mingri/MingriApplication/p5p3_activity/src/main/res/layout/activity_main.xml" value="0.1983695652173913" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Mingri/MingriApplication/p5p3_activity/src/main/res/layout/activity_second.xml" value="0.1983695652173913" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Mingri/MingriApplication/p6p2_broadcastbattery/src/main/res/layout/activity_main.xml" value="0.21331521739130435" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Mingri/MingriApplication/p6p8_customizebroadcastreceiver/src/main/res/layout/activity_main.xml" value="0.21331521739130435" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Mingri/MingriApplication/p6p8_customizebroadcastreceiver/src/main/res/layout/activity_send_order_broadcast.xml" value="0.21331521739130435" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Mingri/MingriApplication/p7p1_servicedemo/src/main/res/layout/activity_main.xml" value="0.21105072463768115" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Mingri/MingriApplication/p7p6_bankservicedemo/src/main/res/layout/activity_main.xml" value="0.21105072463768115" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Mingri/MingriApplication/p8p1_contentprovider/src/main/res/layout/activity_main.xml" value="0.21105072463768115" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Mingri/MingriApplication/recyclerviewtest/src/main/res/layout/multi_view_item.xml" value="0.25364583333333335" />
         <entry key="..\:/Projects/AndroidStudioProjects/Mingri/MingriApplication/recyclerviewtest/src/main/res/layout/stagger_view_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Mingri/MingriApplication/recyclerviewtest/src/main/res/menu/menu.xml" value="0.264" />
         <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
         <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/p114_9patchdrawable/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
         <entry key="..\:/Projects/AndroidStudioProjects/MingriApplication/p115_statelistdrawable/src/main/res/drawable/edittext_focused.xml" value="0.1035" />

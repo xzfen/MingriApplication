@@ -12,6 +12,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/b2p6_calculator" />
+            <option value="$PROJECT_DIR$/b3p1_qqlogindemo" />
             <option value="$PROJECT_DIR$/p114_9patchdrawable" />
             <option value="$PROJECT_DIR$/p115_statelistdrawable" />
             <option value="$PROJECT_DIR$/p121_menu" />
@@ -34,8 +36,18 @@
             <option value="$PROJECT_DIR$/p176_lightsensor" />
             <option value="$PROJECT_DIR$/p177_compass" />
             <option value="$PROJECT_DIR$/p3-5-2_listview" />
+            <option value="$PROJECT_DIR$/p4p1_databasedemo" />
+            <option value="$PROJECT_DIR$/p5p11_activityresult" />
+            <option value="$PROJECT_DIR$/p5p13_camera" />
+            <option value="$PROJECT_DIR$/p5p19_screenrotate" />
+            <option value="$PROJECT_DIR$/p5p3_activity" />
             <option value="$PROJECT_DIR$/p65_wechat" />
+            <option value="$PROJECT_DIR$/p6p2_broadcastbattery" />
+            <option value="$PROJECT_DIR$/p6p8_customizebroadcastreceiver" />
             <option value="$PROJECT_DIR$/p78_tagfragment" />
+            <option value="$PROJECT_DIR$/p7p1_servicedemo" />
+            <option value="$PROJECT_DIR$/p7p6_bankservicedemo" />
+            <option value="$PROJECT_DIR$/p8p1_contentprovider" />
             <option value="$PROJECT_DIR$/recyclerviewtest" />
           </set>
         </option>

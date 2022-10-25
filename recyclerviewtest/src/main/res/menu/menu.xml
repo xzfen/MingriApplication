@@ -24,4 +24,6 @@
             <item android:id="@+id/stagger_view_horizontal_reverse" android:title="水平反向"/>
         </menu>
     </item>
+    <item android:id="@+id/multi_view" android:title="多种条目类型">
+    </item>
 </menu>

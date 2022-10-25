@@ -7,6 +7,7 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.recyclerview.widget.StaggeredGridLayoutManager;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.Menu;
@@ -14,6 +15,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
+import android.widget.Toast;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -37,12 +39,6 @@ public class MainActivity extends AppCompatActivity {
         //默认显示ListView的效果
         showList(true,false);
 
-        //初始化监听事件
-        initListener();
-    }
-
-    private void initListener() {
-        mAdapter.setOnItemClickListener();
     }
 
     //初始化模拟数据
@@ -122,6 +118,12 @@ public class MainActivity extends AppCompatActivity {
             case R.id.stagger_view_horizontal_reverse:
                 showStagger(false,true);
                 break;
+            //MultiView部分
+            case R.id.multi_view:
+                //跳到一个新的Activity实现这个功能
+                Intent intent = new Intent(MainActivity.this, MultiTypeActivity.class);
+                startActivity(intent);
+                break;
             default:
                 break;
         }
@@ -140,6 +142,7 @@ public class MainActivity extends AppCompatActivity {
         //创建适配器
         mAdapter = new StaggerAdapter(mData);
         recyclerView.setAdapter(mAdapter);
+
     }
 
     //显示GridView的效果
@@ -154,6 +157,7 @@ public class MainActivity extends AppCompatActivity {
         //创建适配器
         mAdapter = new GridViewAdapter(mData);
         recyclerView.setAdapter(mAdapter);
+
     }
 
     //显示ListView的效果
@@ -168,5 +172,6 @@ public class MainActivity extends AppCompatActivity {
         //创建适配器
         mAdapter = new ContactViewAdapter(mData);
         recyclerView.setAdapter(mAdapter);
+
     }
 }

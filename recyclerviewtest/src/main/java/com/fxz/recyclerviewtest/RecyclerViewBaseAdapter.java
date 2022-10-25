@@ -2,8 +2,10 @@ package com.fxz.recyclerviewtest;
 
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
@@ -26,7 +28,19 @@ public abstract class RecyclerViewBaseAdapter extends RecyclerView.Adapter<Recyc
         //将列表项布局加载到View中
         View view = getSubView(parent,viewType);
         //创建InnerHolder实例，并加载View
-        RecyclerViewBaseAdapter.InnerHolder holder = new RecyclerViewBaseAdapter.InnerHolder(view);
+        final InnerHolder holder = new InnerHolder(view);
+        //为子项布局设置点击事件
+        holder.contactView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                //获取用户点击的位置
+                int position=holder.getAdapterPosition();
+                //根据position获取点击的Contact实例
+                Contact contact=mData.get(position);
+                Toast.makeText(view.getContext(),"你点击了第"+position+"个条目:"+ contact.getName(),
+                        Toast.LENGTH_SHORT).show();
+            }
+        });
         //返回InnerHolder实例
         return holder;
     }
@@ -36,6 +50,7 @@ public abstract class RecyclerViewBaseAdapter extends RecyclerView.Adapter<Recyc
     //用于对RecyclerView的子项数据进行赋值
     @Override
     public void onBindViewHolder(@NonNull RecyclerViewBaseAdapter.InnerHolder holder, int position) {
+
         //通过position获取当前项的实例
         Contact contact = mData.get(position);
         //将数据设置到ViewHolder中
@@ -50,21 +65,22 @@ public abstract class RecyclerViewBaseAdapter extends RecyclerView.Adapter<Recyc
         return mData.size();
     }
 
-    public void setOnItemClickListener(){
-
-    }
-
     //定义内部类InnerHolder继承自RecyclerView.ViewHolder
     public class InnerHolder extends RecyclerView.ViewHolder {
+        View contactView;//保存子项布局
         ImageView imageView;
         TextView nameView;
         TextView numberView;
         //构造函数参数itemView就是子项布局View，通过findViewById获取布局中实例
         public InnerHolder(@NonNull View itemView) {
             super(itemView);
+            //保存子项布局
+            contactView=itemView;
+            //保存子项布局的子项
             imageView = itemView.findViewById(R.id.imageView);
             nameView = itemView.findViewById(R.id.nameView);
             numberView = itemView.findViewById(R.id.numberView);
+
         }
     }
 }

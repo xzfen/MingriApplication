@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/contents_tx"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请输入通知内容..."
+        android:textSize="20dp"/>
+    <Button
+        android:id="@+id/inform_bt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="发送一条广播通知"
+        android:textSize="20dp"/>
+
+</LinearLayout>
