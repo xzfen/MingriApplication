@@ -14,8 +14,11 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/b2p6_calculator" />
             <option value="$PROJECT_DIR$/b3p1_qqlogindemo" />
+            <option value="$PROJECT_DIR$/looperpager" />
+            <option value="$PROJECT_DIR$/p10p1_customize_view" />
             <option value="$PROJECT_DIR$/p114_9patchdrawable" />
             <option value="$PROJECT_DIR$/p115_statelistdrawable" />
+            <option value="$PROJECT_DIR$/p11p1_mvvmdemo" />
             <option value="$PROJECT_DIR$/p121_menu" />
             <option value="$PROJECT_DIR$/p126_actionbar" />
             <option value="$PROJECT_DIR$/p127_actionbar_zhihu" />
@@ -48,6 +51,7 @@
             <option value="$PROJECT_DIR$/p7p1_servicedemo" />
             <option value="$PROJECT_DIR$/p7p6_bankservicedemo" />
             <option value="$PROJECT_DIR$/p8p1_contentprovider" />
+            <option value="$PROJECT_DIR$/p9p4_androidnetwork" />
             <option value="$PROJECT_DIR$/recyclerviewtest" />
           </set>
         </option>
